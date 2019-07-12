@@ -7,7 +7,7 @@ It is a one shot learning method that uses a Deep Convolutional Network to direc
 The network consists of a batch input layer and a deep CNN followed by L2 normalization, which results in the face embedding. 
 This is followed by the triplet loss during training.
 
-![FaceNet training](FaceNet.PNG)
+![FaceNet Training]()
 
 It returns a 512 dimensional vector face embeddings for each face. 
 
