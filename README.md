@@ -7,11 +7,11 @@ It is a one shot learning method that uses a Deep Convolutional Network to direc
 The network consists of a batch input layer and a deep CNN followed by L2 normalization, which results in the face embedding. 
 This is followed by the triplet loss during training.
 
-![FaceNet Training]()
+![FaceNet Training](Uploads/FaceNet.jpg)
 
 It returns a 512 dimensional vector face embeddings for each face. 
 
-![Face_Embeddings]()
+![Face_Embeddings](Uploads/Face_Embeddings.jpg)
 
 ## Description
 
@@ -48,7 +48,7 @@ First get the embeddings by running the first code cell.
 Then in the next code cell, specify the image location and run the code.
 
 Result is as follows:
-![FR_Image]()
+![FR_Image](Uploads/FR_Image.JPG)
 
 ### Step 3: Face Recognition from webcam
 
@@ -59,7 +59,7 @@ First get the embeddings by running the first code cell.
 Run the next code cell, after specifying the locations properly.
 
 Result is as follows:
-![FR_Webcam]()
+![FR_Webcam](Uploads/FR_Webcam.JPG)
 
 ### Step 4: Accuracy of 'Film' dataset
 
@@ -71,7 +71,7 @@ First get the embeddings by running the first code cell.
 Then in the next code cell, specify the Prediction set location and run the code.
 
 Result is as follows:
-![FR_Accuracy]()
+![FR_Accuracy](Uploads/FR_Accuracy.JPG)
 
 ## Conclusion
 
