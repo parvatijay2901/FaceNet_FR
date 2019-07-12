@@ -48,6 +48,7 @@ First get the embeddings by running the first code cell.
 Then in the next code cell, specify the image location and run the code.
 
 Result is as follows:
+
 ![FR_Image](Uploads/FR_Image.JPG)
 
 ### Step 3: Face Recognition from webcam
@@ -59,6 +60,7 @@ First get the embeddings by running the first code cell.
 Run the next code cell, after specifying the locations properly.
 
 Result is as follows:
+
 ![FR_Webcam](Uploads/FR_Webcam.JPG)
 
 ### Step 4: Accuracy of 'Film' dataset
@@ -71,6 +73,7 @@ First get the embeddings by running the first code cell.
 Then in the next code cell, specify the Prediction set location and run the code.
 
 Result is as follows:
+
 ![FR_Accuracy](Uploads/FR_Accuracy.JPG)
 
 ## Conclusion
