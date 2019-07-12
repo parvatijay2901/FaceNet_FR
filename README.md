@@ -1,5 +1,4 @@
-# FaceNet Face Recognition
-## Face Recognition using FaceNet in PyTorch
+#Face Recognition using FaceNet in PyTorch
 
 Face recognition is the ability to look at the digital image of a human and recognize the person just by looking at the face.
 
@@ -22,7 +21,7 @@ This FaceNet model uses Inception Resnet (V1) architecture (GoogLeNet) , and is 
 Here, we have used MTCNN to detect and align faces.
 Haarcascade classifier is used to detect faces from webcam, since it is faster. For real time general purposes, the model should work fast enough.
 
-## Implemented Method
+## Method Implemented
 
 The model runs on CPU. 
 It is coded in Jupyter notebook.
