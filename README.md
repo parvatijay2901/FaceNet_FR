@@ -11,6 +11,7 @@ This is followed by the triplet loss during training.
 
 It returns a 512 dimensional vector face embeddings for each face. 
 
+![Face_Embeddings]()
 
 ## Description
 
