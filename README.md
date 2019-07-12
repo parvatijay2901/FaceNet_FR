@@ -93,7 +93,8 @@ Real time face recognition using opencv and Deep learning,by Atul Kumar https://
 
 FaceNet: A Unified Embedding for Face Recognition and Clustering, https://arxiv.org/pdf/1503.03832.pdf
 
-
+Data set: Collected from Google images and instagram accounts
+          
 
 
 
