@@ -82,8 +82,11 @@ Dataset 'Film' has 96% accuracy on the prediction set.
 ## References
 
 timesler's implementation of facenet model in pytorch: https://github.com/timesler/facenet-pytorch
+
 Deep Face Recognition: A Survey https://arxiv.org/pdf/1804.06655.pdf
+
 Real time face recognition using opencv and Deep learning,by Atul Kumar https://www.youtube.com/watch?v=-HweZMO5sFY
+
 FaceNet: A Unified Embedding for Face Recognition and Clustering, https://arxiv.org/pdf/1503.03832.pdf
 
 
