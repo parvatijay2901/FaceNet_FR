@@ -1,4 +1,4 @@
-#Face Recognition using FaceNet in PyTorch
+# Face Recognition using FaceNet in PyTorch
 
 Face recognition is the ability to look at the digital image of a human and recognize the person just by looking at the face.
 
