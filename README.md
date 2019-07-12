@@ -1,2 +1,2 @@
-# FaceNet_FR
-A simple face recognition model using pretrained FaceNet model.
+# FaceNet Face Recognition
+## Face Recognition using FaceNet in PyTorch
