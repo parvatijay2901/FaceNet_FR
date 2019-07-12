@@ -32,6 +32,7 @@ So let's take a brief look on each step
 
 #### Install PyTorch (without CUDA) using
 conda install pytorch-cpu -c pytorch 
+
 pip3 install torchvision
 
 #### Install OpenCV
